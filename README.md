@@ -3,34 +3,34 @@
 
 
 ## 🟢 1. Introduction to Database & SQL
-- [ ] What is Database
-- [ ] DBMS vs RDBMS
-- [ ] Features of RDBMS
-- [ ] Real-world applications of SQL
+- [x] What is Database
+- [x] DBMS vs RDBMS
+- [x] Features of RDBMS
+- [x] Real-world applications of SQL
 
  ### Notes [Into to SQL, DB, DBMS, RDBMS](ch1.md)
 
 ---
 
 ## 🟢 2. Relation (Core Structure)
-- [ ] Relation (Table)
-- [ ] Tuple (Row), Attribute (Column)
-- [ ] Degree & Cardinality
+- [x] Relation (Table)
+- [x] Tuple (Row), Attribute (Column)
+- [x] Degree & Cardinality
 
 
 ## 🔑 Types of Keys
 
 ### Basic Keys
-- [ ] Super Key  
-- [ ] Candidate Key  
-- [ ] Primary Key  
-- [ ] Alternate Key  
+- [x] Super Key  
+- [x] Candidate Key  
+- [x] Primary Key  
+- [x] Alternate Key  
 
 ### Relational Keys
-- [ ] Foreign Key  
+- [x] Foreign Key  
 
 ### Structural Keys
-- [ ] Composite Key  
+- [x] Composite Key  
 - [ ] Simple Key  
 
 ### Special Keys
@@ -43,84 +43,84 @@
 ---
 
 ## 🟢 3. Domain (Data Rules)
-- [ ] Domain definition
-- [ ] Data types (INT, VARCHAR, DATE, FLOAT)
-- [ ] Constraints:
-  - [ ] NOT NULL
-  - [ ] UNIQUE
-  - [ ] CHECK
-  - [ ] DEFAULT
+- [x] Domain definition
+- [x] Data types (INT, VARCHAR, DATE, FLOAT)
+- [x] Constraints:
+  - [x] NOT NULL
+  - [x] UNIQUE
+  - [x] CHECK
+  - [x] DEFAULT
 
  ### Notes [Domain](ch3.md)
 ---
 
 ## 🟢 4. Types of SQL (5 Categories)
-- [ ] DDL (CREATE, ALTER, DROP)
-- [ ] DML (INSERT, UPDATE, DELETE)
-- [ ] DQL (SELECT)
-- [ ] DCL (GRANT, REVOKE)
-- [ ] TCL (COMMIT, ROLLBACK, SAVEPOINT)
+- [x] DDL (CREATE, ALTER, DROP)
+- [x] DML (INSERT, UPDATE, DELETE)
+- [x] DQL (SELECT)
+- [x] DCL (GRANT, REVOKE)
+- [x] TCL (COMMIT, ROLLBACK, SAVEPOINT)
 
  ### Notes [Typs of SQL](ch4.md)
 
 ---
 
 ## 🟢 5. Ways of Writing Queries
-- [ ] Simple Query
-- [ ] Conditional Query (WHERE)
-- [ ] Join Query
-- [ ] Subquery (Nested Query)
-- [ ] Aggregate Query
+- [x] Simple Query
+- [x] Conditional Query (WHERE)
+- [x] Join Query
+- [x] Subquery (Nested Query)
+- [x] Aggregate Query
 
  ### Notes [Quari typs](ch5.md)
 
 ---
 
 ## 🟢 6. Clauses (Query Structure)
-- [ ] SELECT
-- [ ] FROM
-- [ ] WHERE
-- [ ] ORDER BY
-- [ ] GROUP BY
-- [ ] HAVING
+- [x] SELECT
+- [x] FROM
+- [x] WHERE
+- [x] ORDER BY
+- [x] GROUP BY
+- [x] HAVING
 
 ### 🔗 Logical Operators (VERY IMPORTANT)
-- [ ] AND
-- [ ] OR
-- [ ] NOT
+- [x] AND
+- [x] OR
+- [x] NOT
 
 ### 🔍 Comparison Operators
-- [ ] = , != , > , < , >= , <=
-- [ ] BETWEEN
-- [ ] IN
-- [ ] LIKE
-- [ ] IS NULL
+- [x] = , != , > , < , >= , <=
+- [x] BETWEEN
+- [x] IN
+- [x] LIKE
+- [x] IS NULL
 
  ### Notes [Clauses](ch6.md)
 ---
 
 ## 🟢 7. Functions
 ### Aggregate Functions
-- [ ] COUNT()
-- [ ] SUM()
-- [ ] AVG()
-- [ ] MAX()
-- [ ] MIN()
+- [x] COUNT()
+- [x] SUM()
+- [x] AVG()
+- [x] MAX()
+- [x] MIN()
 
 ### Scalar Functions
-- [ ] UPPER()
-- [ ] LOWER()
-- [ ] LENGTH()
-- [ ] ROUND()
+- [x] UPPER()
+- [x] LOWER()
+- [x] LENGTH()
+- [x] ROUND()
 
  ### Notes [Functions](ch7.md)
 
 ---
 
 ## 🟢 8. Aggregation
-- [ ] GROUP BY concept
-- [ ] HAVING vs WHERE
-- [ ] Aggregation with multiple columns
+- [x] GROUP BY concept
+- [x] HAVING vs WHERE
+- [x] Aggregation with multiple columns
  ### Notes [Aggregation](ch8.md)
 ---
 
